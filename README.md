@@ -38,7 +38,7 @@
   <p align="center">
     Ejercicio de JS.
     <br />
-    <a href="https://y2kwebs.github.io/sprint2-animacion-itacademy/">Demo</a>
+    <a href="https://y2kwebs.github.io/sprint3-JS-itacademy/ciber.html">Demo</a>
     <br />
 
   </p>
